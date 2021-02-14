@@ -1,0 +1,181 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+body {
+    color: lightblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url('../images/Saguaro\ Sunset.jpeg');
+    background-position: center;
+    background-attachment: fixed;
+  }
+
+
+  /* header and nav */
+header {
+    padding: 20px 55px;
+    background-color: lightskyblue;
+    opacity: 0.3;
+    background-size: cover;
+    background-position: bottom;
+    background-position: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 999;
+  }
+
+header h1 a {
+    font-weight: unset;
+    margin: 0;
+    font-size: 42px;
+    color: lightskyblue;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+
+h3 {
+    text-align: center;
+  }
+
+header a {
+    text-decoration: none;
+    vertical-align: middle;
+  }
+  
+header nav {
+    margin: 10px 0;
+  }
+  
+header nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+  }
+  
+header nav ul li a {
+    padding: 20px 35px;
+    font-weight: bold;
+    font-size: 1.55vw;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+
+  /* end header */
+
+.Intro { 
+    background: lightskyblue;
+  }
+  
+.section-title {
+    font-size: 48px;
+    border-bottom: 3px solid;
+    color: lightskyblue;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto 35px auto;
+    width: 50%;
+  }
+  
+.primary-border {
+    border-color: midnightblue;
+  }
+  
+.secondary-border {
+    border-color: lightskyblue;
+  }
+ /* section styles end */
+
+ /* Intro styles */ 
+.step {
+    margin: 50px auto;
+    padding-bottom: 50px;
+    width: 80%;
+    border-bottom: 1px solid midnightblue;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+.section-title {
+    font-size: 48px;
+    border-bottom: 3px solid;
+    color: lightskyblue;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto 35px auto;
+    width: 50%;
+  }
+  
+.primary-border {
+    border-color: lightskyblue;
+  }
+  
+.secondary-border {
+    border-color: midnightblue;
+  }
+
+/* Trainers Placeholder start */
+.Works {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+.container {
+    text-align: center;
+}
+  
+.Work1 {
+    margin: 20px;
+    width: 700px;
+    text-align: center;
+    background: navajowhite;
+    color: midnightblue;
+    display: inline-block;
+  }
+
+  .Work2 {
+    margin: 20px;
+    width: 400px;
+    text-align: center;
+    background: navajowhite;
+    color: midnightblue;
+    display: inline-block;
+  }
+  
+  .Work img {
+    width: 100%;
+  }
+  /* Work Placeholder styles end */
+
+  /* footer */
+  footer {
+    background: rgba(135,206,250,0.6);
+    padding: 35px 30px;
+    display: legacy;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+    text-align: center;
+  }
+  
+  footer h2 {
+    color: white;
+    font-size: 30px;
+    margin: 0;
+  }
+  
+  footer a {
+    color: rgb(25, 29, 31);
+    text-decoration: none;
+  }
+  /* end footer */
