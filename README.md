@@ -11,4 +11,4 @@ A webpage to display web development and abilities.
 https://xritchie91.github.io/Portfolio/
 
 ## Contribution
-Made by 🤙🏽 Ritchie 🤘🏽
+Made by 🤘🏽 Ritchie 🤙🏽
