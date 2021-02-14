@@ -104,7 +104,7 @@ header nav ul li a {
   }
 
 .section-title {
-    font-size: 48px;
+    font-size: 35px;
     border-bottom: 3px solid;
     color: lightskyblue;
     padding-bottom: 20px;
@@ -179,3 +179,19 @@ header nav ul li a {
     text-decoration: none;
   }
   /* end footer */
+
+  /* Media Queries*/
+  @media screen
+  and (min-device-width: 1200px)
+  and (max-device-width: 1600px)
+  and (-webkit-min-device-pixel-ratio: 1) { 
+  }
+
+  @media screen 
+  and (min-device-width: 1200px)
+  and (max-device-width: 1600px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (min-resolution: 192dpi) {   
+  }
+
+  
