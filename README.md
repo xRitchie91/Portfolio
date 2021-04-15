@@ -4,8 +4,8 @@
 A webpage to display web development and abilities.
 
 ## Built with
-*HTML
-*CSS
+- HTML
+- CSS
 
 ## Website 
 https://xritchie91.github.io/Portfolio/
@@ -14,4 +14,4 @@ https://xritchie91.github.io/Portfolio/
 ![image](https://user-images.githubusercontent.com/74946954/107870603-75aaac00-6e5f-11eb-8e10-aeb616e1e19f.png)
 
 ## Contribution
-Made by 🤘🏽 Ritchie 🤙🏽
+Made by Ritchie 🤙🏽
